@@ -111,3 +111,6 @@ target/
 
 # BASC-Archiver
 /archive*
+
+# Scraped data
+scrape_py4chan/data/
